@@ -1,0 +1,32 @@
+.logo{
+
+    height: 60px;
+    width: 60px;
+}
+.log 
+{
+    margin-left: 69px;
+}
+img.imgs{
+    height: 270px;
+    width: 350px;
+}
+img.social{
+    height: 20px;
+    width: 22px;
+}
+body {
+    box-sizing: content-box;
+}
+.header{
+    background-color: rosybrown;
+}
+.footer{
+    background-color: rosybrown;
+}
+#m1,#m3,#m2{
+    background-color: rgb(132,136,139);
+    margin: 2%;
+    margin-right: 500px;
+}
+

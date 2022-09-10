@@ -1,0 +1,45 @@
+.logo{
+
+    height: 60px;
+    width: 60px;
+}
+.log 
+    {
+        margin-left: 69px;
+    }
+    body {
+        box-sizing: content-box;
+    }
+    .pic{
+        height: 500px;
+        width: 500px;
+    }
+    img.social {
+        height: 20px;
+        width: 22px;
+    }
+    .header{
+        background-color: rosybrown;
+    }
+     .content{
+      background-color:  #e0e0e0;
+     }
+     .footer{
+         background-color: rosybrown;
+     }
+     .sub{
+         background-color: rgb(132,136,139);
+         margin: 0px 225px 14px 464px;
+}
+.border{
+    border-style: solid;
+    padding: 20px;
+    margin-left: 2%;
+    border-radius: 3%;
+    margin-bottom: 2%;
+}
+
+
+
+     
+    
