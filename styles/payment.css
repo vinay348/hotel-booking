@@ -1,45 +1,27 @@
-.logo{
-
-    height: 60px;
-    width: 60px;
+#hotel-details {
+    background-color: rgb(132, 136, 139);
+    width: 50%;
+    height: 20%;
+    margin: 2% auto;
+    display: flex;
+    align-items: center;
 }
-.log 
-    {
-        margin-left: 69px;
-    }
-    body {
-        box-sizing: content-box;
-    }
-    .pic{
-        height: 500px;
-        width: 500px;
-    }
-    img.social {
-        height: 20px;
-        width: 22px;
-    }
-    .header{
-        background-color: rosybrown;
-    }
-     .content{
-      background-color:  #e0e0e0;
-     }
-     .footer{
-         background-color: rosybrown;
-     }
-     .sub{
-         background-color: rgb(132,136,139);
-         margin: 0px 225px 14px 464px;
+#payment-container {
+    margin-top:10%;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
 }
-.border{
-    border-style: solid;
-    padding: 20px;
-    margin-left: 2%;
-    border-radius: 3%;
-    margin-bottom: 2%;
+.hotel-image {
+    max-height: 300px;
+    max-width: 270px;
 }
-
-
-
-     
-    
+#customer-payment-details {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border: black 1px solid;
+    border-radius: 5px;
+    margin: 0% 2%;
+    background-color: rosybrown;
+}

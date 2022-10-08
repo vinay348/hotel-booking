@@ -1,15 +1,18 @@
+<!DOCTYPE html>
 <html>
     <head>
-        <title>
-            contact</title>
+        <title>Contact</title>
     </head>
     <body>
-        <label>Thank you for reaching out!!!</label><br><br>
-        <label>Please enter your email and we will get back to you</label><br><br>
-        <form action="index.html">
-            <input type="email" placeholder="Enter your email"><br>
-            <button>submit</button>
-
-        </form>
+        <div>
+            <!-- Added the Contact Us form -->
+            <form action="index.html" autocomplete="off">
+                <p>Thank you for reaching out!!!</p>
+                <p>Please enter you email and we will get back to you.</p>
+                <input type="text" name="email" placeholder="Enter your email" required/>
+                <br>
+                <input type="submit" value="Submit"/>
+            </form>
+        </div>
     </body>
 </html>
